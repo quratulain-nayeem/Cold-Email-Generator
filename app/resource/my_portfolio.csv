@@ -1,0 +1,6 @@
+Techstack,Links
+LangChain + LLaMA 3.3 + ChromaDB + Streamlit,https://github.com/quratulain-nayeem/cold-email-generator
+BERTopic + Sentence Transformers + BART + Streamlit,https://github.com/quratulain-nayeem/review-intelligence
+LangChain + Groq + DuckDuckGo + Wikipedia + Streamlit,https://github.com/quratulain-nayeem/ai-agent-from-scratch
+FastAPI + LLM + Vector DB + RAG Pipeline,https://github.com/quratulain-nayeem/ncertai
+Next.js + Vercel + Kanban + localStorage,https://claro-eta.vercel.app
